@@ -1,4 +1,4 @@
-import { HistoryList, HistoryContainer } from './style'
+import { HistoryList, HistoryContainer, Status } from './style'
 
 export function History() {
   return (
@@ -19,43 +19,57 @@ export function History() {
               <td>task</td>
               <td>20 min</td>
               <td>há 2 meses</td>
-              <td>concluído</td>
+              <td>
+                <Status statusColor="red">concluído</Status>
+              </td>
             </tr>
             <tr>
               <td>task</td>
               <td>20 min</td>
               <td>há 2 meses</td>
-              <td>concluído</td>
+              <td>
+                <Status statusColor="red">concluído</Status>
+              </td>
             </tr>
             <tr>
               <td>task</td>
               <td>20 min</td>
               <td>há 2 meses</td>
-              <td>concluído</td>
+              <td>
+                <Status statusColor="red">concluído</Status>
+              </td>
             </tr>
             <tr>
               <td>task</td>
               <td>20 min</td>
               <td>há 2 meses</td>
-              <td>concluído</td>
+              <td>
+                <Status statusColor="red">concluído</Status>
+              </td>
             </tr>
             <tr>
               <td>task</td>
               <td>20 min</td>
               <td>há 2 meses</td>
-              <td>concluído</td>
+              <td>
+                <Status statusColor="red">concluído</Status>
+              </td>
             </tr>
             <tr>
               <td>task</td>
               <td>20 min</td>
               <td>há 2 meses</td>
-              <td>concluído</td>
+              <td>
+                <Status statusColor="red">concluído</Status>
+              </td>
             </tr>
             <tr>
               <td>task</td>
               <td>20 min</td>
               <td>há 2 meses</td>
-              <td>concluído</td>
+              <td>
+                <Status statusColor="red">concluído</Status>
+              </td>
             </tr>
           </tbody>
         </table>
