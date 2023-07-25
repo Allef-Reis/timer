@@ -20,7 +20,7 @@ export function History() {
               <td>20 min</td>
               <td>há 2 meses</td>
               <td>
-                <Status statusColor="red">concluído</Status>
+                <Status statusColor="green">concluído</Status>
               </td>
             </tr>
             <tr>
@@ -28,7 +28,7 @@ export function History() {
               <td>20 min</td>
               <td>há 2 meses</td>
               <td>
-                <Status statusColor="red">concluído</Status>
+                <Status statusColor="green">concluído</Status>
               </td>
             </tr>
             <tr>
@@ -36,7 +36,7 @@ export function History() {
               <td>20 min</td>
               <td>há 2 meses</td>
               <td>
-                <Status statusColor="red">concluído</Status>
+                <Status statusColor="green">concluído</Status>
               </td>
             </tr>
             <tr>
@@ -44,7 +44,7 @@ export function History() {
               <td>20 min</td>
               <td>há 2 meses</td>
               <td>
-                <Status statusColor="red">concluído</Status>
+                <Status statusColor="green">concluído</Status>
               </td>
             </tr>
             <tr>
@@ -52,7 +52,7 @@ export function History() {
               <td>20 min</td>
               <td>há 2 meses</td>
               <td>
-                <Status statusColor="red">concluído</Status>
+                <Status statusColor="green">concluído</Status>
               </td>
             </tr>
             <tr>
@@ -60,7 +60,7 @@ export function History() {
               <td>20 min</td>
               <td>há 2 meses</td>
               <td>
-                <Status statusColor="red">concluído</Status>
+                <Status statusColor="green">concluído</Status>
               </td>
             </tr>
             <tr>
@@ -68,7 +68,7 @@ export function History() {
               <td>20 min</td>
               <td>há 2 meses</td>
               <td>
-                <Status statusColor="red">concluído</Status>
+                <Status statusColor="yellow">Em Andamento</Status>
               </td>
             </tr>
           </tbody>
